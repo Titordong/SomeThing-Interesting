@@ -1,6 +1,6 @@
 CreateObject("SAPI.SpVoice").Speak"过年好啊,我要用13种语言给您拜年啦"
 Dim AutoTime
-AutoTime = 35
+AutoTime = 50
 Set WS=WScript.CreateObject("WScript.Shell")
 WS.run("notepad"),3
 WScript.Sleep 500
@@ -18,8 +18,6 @@ WScript.Sleep AutoTime
 WS.SendKeys "t"
 WScript.Sleep AutoTime
 WS.SendKeys "_"
-WScript.Sleep AutoTime
-WS.SendKeys " "
 WScript.Sleep AutoTime
 WS.SendKeys "r"
 WScript.Sleep AutoTime
@@ -76,8 +74,6 @@ WScript.Sleep AutoTime
 WS.SendKeys "r"
 WScript.Sleep AutoTime
 WS.SendKeys "_"
-WScript.Sleep AutoTime
-WS.SendKeys " "
 WScript.Sleep AutoTime
 WS.SendKeys "d"
 WScript.Sleep AutoTime
@@ -147,7 +143,7 @@ WS.SendKeys "{(}"
 WScript.Sleep AutoTime
 WS.SendKeys "@"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
@@ -181,7 +177,7 @@ WS.SendKeys "1"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "{)}"
 WScript.Sleep AutoTime
@@ -229,7 +225,7 @@ WS.SendKeys "n"
 WScript.Sleep AutoTime
 WS.SendKeys "{(}"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
@@ -263,7 +259,7 @@ WS.SendKeys "1"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "{)}"
 WScript.Sleep AutoTime
@@ -297,7 +293,7 @@ WS.SendKeys "g"
 WScript.Sleep AutoTime
 WS.SendKeys "{(}"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
@@ -331,7 +327,7 @@ WS.SendKeys "1"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "{)}"
 WScript.Sleep AutoTime
@@ -353,7 +349,7 @@ WS.SendKeys "t"
 WScript.Sleep AutoTime
 WS.SendKeys "{(}"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
@@ -387,7 +383,7 @@ WS.SendKeys "1"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "{)}"
 WScript.Sleep AutoTime
@@ -411,7 +407,7 @@ WS.SendKeys "f"
 WScript.Sleep AutoTime
 WS.SendKeys "{(}"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
@@ -445,7 +441,7 @@ WS.SendKeys "1"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "{)}"
 WScript.Sleep AutoTime
@@ -467,7 +463,7 @@ WS.SendKeys "<"
 WScript.Sleep AutoTime
 WS.SendKeys "<"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
@@ -501,7 +497,7 @@ WS.SendKeys "1"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "<"
 WScript.Sleep AutoTime
@@ -559,7 +555,7 @@ WS.SendKeys "e"
 WScript.Sleep AutoTime
 WS.SendKeys "{(}"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
@@ -593,7 +589,7 @@ WS.SendKeys "1"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "{)}"
 WScript.Sleep AutoTime
@@ -629,7 +625,7 @@ WS.SendKeys "n"
 WScript.Sleep AutoTime
 WS.SendKeys "{(}"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
@@ -663,7 +659,7 @@ WS.SendKeys "1"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "{)}"
 WScript.Sleep AutoTime
@@ -703,7 +699,7 @@ WS.SendKeys "e"
 WScript.Sleep AutoTime
 WS.SendKeys "{(}"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
@@ -737,7 +733,7 @@ WS.SendKeys "1"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "{)}"
 WScript.Sleep AutoTime
@@ -759,7 +755,7 @@ WS.SendKeys "t"
 WScript.Sleep AutoTime
 WS.SendKeys "{(}"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
@@ -793,7 +789,7 @@ WS.SendKeys "1"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "{)}"
 WScript.Sleep 1000
@@ -809,7 +805,7 @@ WS.SendKeys "h"
 WScript.Sleep AutoTime
 WS.SendKeys "o"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
+WS.SendKeys """"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
@@ -843,22 +839,22 @@ WS.SendKeys "1"
 WScript.Sleep AutoTime
 WS.SendKeys "+"
 WScript.Sleep AutoTime
-WS.SendKeys Chr(34)
-WScript.Sleep 1000
+WS.SendKeys """"
+WScript.Sleep 500
 WS.SendKeys "{ENTER}"
 WScript.Sleep 200
-CreateObject("SAPI.SpVoice").Speak"狗坏祝大家，车速跟得上，营养跟得上，学习跟得上，对象追不上"
+CreateObject("SAPI.SpVoice").Speak"祝您猪年诸事大吉，身体健康，万事如意，恭喜发财，红包拿来，扫码即可哦"
 WScript.Sleep 200
 link()
 Function link()
 Set Seven = WScript.CreateObject("WScript.Shell")
 strDesktop = Seven.SpecialFolders("Desktop")
-set oShellLink = Seven.CreateShortcut(strDesktop & "\Little-Bad.url")
-oShellLink.TargetPath = "https://imgchr.com/i/kJDiZj"
+set oShellLink = Seven.CreateShortcut(strDesktop & "\Titordong.url")
+oShellLink.TargetPath = "https://ww1.sinaimg.cn/large/007i4MEmgy1fzviwg4l7uj30u01aoag3.jpg"
 oShellLink.Save
 Set oShellLink=Nothing
 strDesktop = Seven.SpecialFolders(4)
-mypath=strDesktop&"\Little-Bad.url"
+mypath=strDesktop&"\Titordong.url"
 Seven.run mypath
 End Function
 
