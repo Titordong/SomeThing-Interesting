@@ -9,6 +9,6 @@
 ## 更新日志
 2019/1/23 17:23:45  vbs脚本祝福礼物 [传送门](https://www.cnblogs.com/Titordong/p/10204042.html)
 
-2019/2/5 15:02:06   vbs13种语言拜年
+2019/2/5 15:02:06   vbs13种语言拜年 [传送门](https://www.cnblogs.com/Titordong/p/10352799.html)
 
 ## 后记
