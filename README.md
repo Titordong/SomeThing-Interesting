@@ -11,6 +11,6 @@
 
 2019/2/5 15:02:06   vbs13种语言拜年 [传送门](https://www.cnblogs.com/Titordong/p/10352799.html)
 
-2019/4/19 16:26:29  电脑qq消息轰炸机
+2019/4/19 16:26:29  电脑qq消息轰炸机[传送门](https://www.cnblogs.com/Titordong/p/10737139.html)
 
 ## 后记
